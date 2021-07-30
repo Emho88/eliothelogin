@@ -14,11 +14,10 @@ body{
   transform: translate(-50%, -50%);
   background: #191919;
   text-align: center;
-  border-radius: 15px;
-  }
+  border-radius: 15px}
 
   .box h1{
-    color: white;
+    color: yellow;
     text-transform: uppercase;
     font-weight: 500;
   }
@@ -62,5 +61,3 @@ body{
       .box input[type ="submit"]:hover{
         background: #2ecc71;
         }
-
-        
