@@ -63,4 +63,5 @@ body{
         }
       .box input[type = "text"]:hover,.box input[type = "password"]:hover{
         background: url("https://picfiles.alphacoders.com/553/553773.png");
+        background-position: 10% 60%;
        }
